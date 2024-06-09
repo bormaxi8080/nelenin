@@ -8,6 +8,6 @@ Instagram: https://www.instagram.com/nelen.in/
 
 All photo places at **backup** folder
 
-Last backup date: 20.03.2024
+Last backup date: 09.06.2024
 
 > Project is under MIT License, @bormaxi8080
